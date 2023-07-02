@@ -1,0 +1,29 @@
+
+
+.header_tittle {
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_tittle img{
+    height: 10rem;
+    padding: 2rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px;
+}
+
+.navbar li {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.cart_icon {
+    max-height: 3rem;
+    align-items: center;
+}

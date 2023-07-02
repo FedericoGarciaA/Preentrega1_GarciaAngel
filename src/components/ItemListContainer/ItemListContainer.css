@@ -1,0 +1,6 @@
+.item_list_container {
+    font-size: 4rem;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
